@@ -1,5 +1,5 @@
 # Quidditch
-The Quidditch game made for SE344-Computer Graphics.
+The Quidditch game made for SE344-Computer Graphics. I never wanted to add comments or any code explainations for it only gets a disgusting 71.5 in the class but I think it is a 80+.
 
 ## Controllers:
 Up - Decrease force
